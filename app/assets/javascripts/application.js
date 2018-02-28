@@ -12,4 +12,13 @@
 //
 //= require rails-ujs
 //= require turbolinks
+//= require jquery
+//= require bootstrap.min
+//= require jquery.prettyPhoto
+//= require jquery.scrollUp.min
+//= require price-range
+//= require html5shiv
+//= require contact
+//= require main
+//= require gmaps
 //= require_tree .
