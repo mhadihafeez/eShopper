@@ -10,15 +10,10 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require rails-ujs
-//= require turbolinks
 //= require jquery
 //= require bootstrap.min
-//= require jquery.prettyPhoto
-//= require jquery.scrollUp.min
 //= require price-range
-//= require html5shiv
-//= require contact
-//= require main
+//= require jquery.scrollUp.min
+//= require jquery.prettyPhoto
 //= require gmaps
-//= require_tree .
+//= require html5shiv
